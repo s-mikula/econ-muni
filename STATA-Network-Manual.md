@@ -8,12 +8,14 @@ This document provides instructions for  running STATA on your computer using a 
 
 1. **Internet connection via EduVPN...** (for instructions see https://it.muni.cz/en/services/eduvpn)
 2. **...with "Employee - Econ - HEPII Server" profile.** To get the profile added to your EduVPN account, please contact Štěpán (stepan.mikula@econ.muni.cz).
-3. Valid **username (UČO) and password** for the network license. If you do not know your credentials, please contact Štěpán or Michal (michal.kvasnicka@econ.muni.cz)
+3. Valid **username (UČO) and password** for the network license. The password for STATA does not match any password to university systems! If you do not know your credentials, please contact Štěpán or Michal (michal.kvasnicka@econ.muni.cz)
 
 ## Start & use STATA
 
+To run STATA, follow these steps:
+
 1. Connect to EduVPN with "Employee - Econ - HEPII Server" profile (see above).
-2. Launch STATA client: [Windows](https://fem.econ.muni.cz/STATA.7z) Clients for other platforms are comming.
+2. Launch STATA client: [Windows](https://fem.econ.muni.cz/STATA.7z) Clients for other platforms are comming. On the first launch, the client will download necessary files (this may take a while).
 3. Log in with your UČO and password (see above).
 4. Stata starts.
 5. Keep EduVPN connection active while using STATA.
