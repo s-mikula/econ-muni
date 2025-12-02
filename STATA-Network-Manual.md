@@ -31,6 +31,14 @@ STATA licenses are not for free. If we want to keep using them, we need to use t
 - to close STATA when you are not using it.
 - **include new STATA licences to your project budgets.**
 
+## Notes for admins
+
+It is possible to cancel the lease of the license manually by deleting a row in the database (from MariaDB: `$ mariadb`):
+1. `use stata_lic`
+1. `delete from leases where token="token";`
+1. `exit;`
+
+
 ## Acknowledgements
 
 Big thanks to Dominik Dvořák for making it happen. If you want to contribute to the code development, let us know.
