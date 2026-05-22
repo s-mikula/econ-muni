@@ -41,4 +41,5 @@ If you occupy some space on `/data-nas`, move your data away.
 - Use `/data-hdd` or `/data-microlab` for your own computational artifacts that can be re-generated.
 
 Do not compute on data stored at `/data-nas` as NAS servers do not handle it well.
+
 ---
