@@ -1,4 +1,4 @@
-# Running STATA (BETA VERSION)
+# Running STATA
 
 This document provides instructions for  running STATA on your computer using a network license provided by ECON MUNI. Network license allows multiple users to share a limited number of licenses over a network. The pool of licenses is funded from project resources and project team members have priority access. **Only one session per user is allowed.**
 
