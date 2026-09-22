@@ -16,7 +16,7 @@ FEM server is accessible via SSH at fem.econ.muni.cz (port 22222) and it is prim
 - CPU: 2x AMD EPYC 9474F (Dual Socket configuration) with 96 Physical Cores / 192 Logical Threads
 - RAM: 503 GB
 - GPU: NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition (96 GB VRAM)
-- Drives: 
+- Drives: [FEM Server drives](FEM-server-drives.md)
 
 ## WS
 
